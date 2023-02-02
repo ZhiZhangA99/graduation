@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "KaoQinDaKaMis", ".", "{C85363D4-62EE-4A09-A013-352487723234}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.VirtualPath = "/KaoQinDaKaMis"
+		Debug.AspNetCompiler.PhysicalPath = "..\KaoQinDaKaMis\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\KaoQinDaKaMis\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/KaoQinDaKaMis"
+		Release.AspNetCompiler.PhysicalPath = "..\KaoQinDaKaMis\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\KaoQinDaKaMis\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57031"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C85363D4-62EE-4A09-A013-352487723234}.Debug|.NET.ActiveCfg = Debug|.NET
+		{C85363D4-62EE-4A09-A013-352487723234}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD1525B-A08C-435C-B230-AD15697A9738}
+	EndGlobalSection
+EndGlobal
